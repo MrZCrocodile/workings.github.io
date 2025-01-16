@@ -1,5 +1,3 @@
-# Project
-
 ## IMDB Master Project
 ### Responsible
 cleaning dataset, developing and evaluting machine learning model.
@@ -31,8 +29,10 @@ Promotion (Figma) ![Mobile shop](./SA/img/Promotion1.png)
 
 ## Software Testing Project
 ### Responsible
-testing for Pet Store Swagger using Postman
+testing for Pet Store Swagger for the function POST and GET using Postman
 #### Tool
 - Postman
-![POST](./Software test/img/Post.png)
+
+![POST](./postman/img/Post.png)
+![GET](./postman/img/Get.png)
 
