@@ -5,7 +5,7 @@
 cleaning dataset, developing and evaluting machine learning model.
 #### Tools
 - Google colab
-
+[Google colab link](https://colab.research.google.com/drive/1RNE-HtVEt-TH-rEI3wC7ETcO8Tqo97Tp?usp=sharing)
 [imdb code example](./imdb/project_imdb_master.ipynb)
 ## Internet Service System Analysis Project (SAW WIFI AND SERVICE)
 Requirements analysis, system design, present plans and models through the interface. The system used in the study and model is the AIS service.
