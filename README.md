@@ -1,7 +1,12 @@
 # Project
 
 ## IMDB Master Project
+### Responsible
+cleaning dataset, developing and evaluting machine learning model.
+#### Tools
+- Google colab
 
+[imdb code example](./imdb/project_imdb_masteripynb)
 ## Internet Service System Analysis Project (SAW WIFI AND SERVICE)
 Requirements analysis, system design, present plans and models through the interface. The system used in the study and model is the AIS service.
 ### SAW Figma
@@ -16,9 +21,9 @@ analyzing the mobile phone purchase system. Design diagrams and interfaces for m
 - draw.io
 - Figma
 
-Mobile Shop ![Mobile shop](SA/img/Mobile_shop.png)
+Mobile Shop ![Mobile shop](./SA/img/Mobile_shop.png)
 
-Promotion (Figma) ![Mobile shop](SA/img/Promotion1.png)
+Promotion (Figma) ![Mobile shop](./SA/img/Promotion1.png)
    ![Mobile shop](SA/img/Promotion2.png)
 
 ## Software Testing Project
